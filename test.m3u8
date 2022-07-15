@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
+#EXTM3U 
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",Test TV
