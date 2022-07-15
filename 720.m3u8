@@ -1,0 +1,5 @@
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x360
+https://401368591.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=VDEAALKXr2d78wEX&secondToken=secondToken%3Ao22yQpbAIYwDq9why_K4NlPR8k4&sign=b7141d1ee17e78383834e4bcade01251&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3776096&t=62d133b1&v3=1
